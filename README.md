@@ -45,4 +45,4 @@ The first data cleaning work we will have to do is to cross the different datase
 - [Mapping the NFT revolution: market trends, trade networks and visual features](https://paperswithcode.com/paper/mapping-the-nft-revolution-market-trends)
 - [Networks of Ethereum Non-Fungible Tokens: A graph-based analysis of the ERC-721 ecosystem](https://cs.paperswithcode.com/paper/networks-of-ethereum-non-fungible-tokens-a)
 
-A literature review is available [here](https://docs.google.com/presentation/d/1_yk-95LHVqXkdFNe6vfZeJcDyvt9-gn7sZdPhQq6mwg/edit?usp=sharing).
+A literature review is available [here](https://docs.google.com/presentation/d/13lzX5JJ7U8a3sf9UAFjuZBYbBgpauxM9nzDNnZ2Tc4c/edit#slide=id.g128c0eb9983_0_0).
