@@ -30,10 +30,6 @@ Images data
 
 Additionnaly, reddit.com and twitter.com datasets are available. 
 
-### To-Do:
-The first data cleaning work we will have to do is to cross the different datasets and select the data points providing the complete data we want for our study: images + historical.
-
-
 ### Literature:
 2022
 - [Predicting the Bubble of Non-Fungible Tokens (NFTs): An Empirical Investigation](https://paperswithcode.com/paper/predicting-the-bubble-of-non-fungible-tokens)
