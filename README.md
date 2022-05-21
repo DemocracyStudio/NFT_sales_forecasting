@@ -10,6 +10,7 @@ A pitch deck is available [here](https://docs.google.com/presentation/d/1jHd8AsH
 
 ### Datasets:
 There are more NFTs on NFT marketplaces today than there were websites in 2010. Covering the whole available NFTs' data would have been impossible. Furthermore our model ambitions to take a mainly undiscovered approach to NFT sales forecasting by using feature extraction on images, which induces heavier data manipulation and higher computational costs. We first trained our model on existing datasets publicly shared on Kaggle before deploying it on OpenSea API. The training datasets are the followings:
+
 Historical sales data
 - [NFT sales](https://www.kaggle.com/datasets/hemil26/nft-collections-dataset) collected on [cryptoslam.io](https://cryptoslam.io/) on April 30, 2022.
 - [NFT Top Collections](https://www.kaggle.com/datasets/nenamalikah/nft-collections-by-sales-volume) collected on [coinmarketcap.com](https://coinmarketcap.com/nft/collections/) on January 16, 2022.
