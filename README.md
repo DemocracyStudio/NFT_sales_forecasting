@@ -8,6 +8,10 @@ In the determination of critical factors making NFT valuable or not, visual feat
 
 A pitch deck is available [here](https://docs.google.com/presentation/d/1jHd8AsHRDuHgiaFrP9hq1H6JN3bmCKH4gCR4JS-Z7NQ/edit?usp=sharing). 
 
+### Project Management:
+A notion board is available [here](https://www.notion.so/4a4a3421bc1c490190a07de4529345c8?v=bfcefed471a24d66a681ab0f50db22eb)
+
+
 ### Datasets:
 There are more NFTs on NFT marketplaces today than there were websites in 2010. Covering the whole available NFTs' data would have been impossible. Furthermore our model ambitions to take a mainly undiscovered approach to NFT sales forecasting by using feature extraction on images, which induces heavier data manipulation and higher computational costs. We first trained our model on existing datasets publicly shared on Kaggle before deploying it on OpenSea API. The training datasets are the followings:
 
