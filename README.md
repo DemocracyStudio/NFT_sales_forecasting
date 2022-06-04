@@ -17,7 +17,7 @@ There are more NFTs on NFT marketplaces today than there were websites in 2010. 
 
 To collect full datasets including images + last sale prices, we combined existing datasets Kaggle, with OpenSea API requests, and data scraping with selenium. The resulting datasets are the followings:
 - [Crypto Coven Witches](https://www.kaggle.com/datasets/harrywang/crypto-coven) collected on opensea.com on April 22, 2022.
-- [CryptoPunks](https://www.kaggle.com/datasets/tunguz/cryptopunks) collected on [larvalabs.com](https://larvalabs.com/cryptopunks) on October 8, 2021.
+- [CryptoPunks](https://www.kaggle.com/datasets/tunguz/cryptopunks) sales collected on [larvalabs.com](https://larvalabs.com/cryptopunks) on October 8, 2021, and images on June 2, 2022.
 - [Bored Apes](https://www.kaggle.com/datasets/stanleyjzheng/bored-apes-yacht-club) images collected on opensea.com (https://opensea.com) on July 14, 2021 (images) and historical sales on May 22, 2022.
 - [Solana NFT Collections](https://www.kaggle.com/datasets/eyenpi/solana-nft-collections?select=Solana+NFT+Collections) sales collected on [magiceden.io](https://magiceden.io) on April 18, 2021 and images collected on June 1, 2022.
 
