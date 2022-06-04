@@ -13,27 +13,13 @@ A notion board is available [here](https://www.notion.so/4a4a3421bc1c490190a07de
 
 
 ### Datasets:
-There are more NFTs on NFT marketplaces today than there were websites in 2010. Covering the whole available NFTs' data would have been impossible. Furthermore our model ambitions to take a mainly undiscovered approach to NFT sales forecasting by using feature extraction on images, which induces heavier data manipulation and higher computational costs. We first trained our model on existing datasets publicly shared on Kaggle before deploying it on OpenSea API. The training datasets are the followings:
+There are more NFTs on NFT marketplaces today than there were websites in 2010. Covering the whole available NFTs' data would have been impossible. Our model ambitions to experiment an undiscovered approach to NFT sales forecasting by using feature extraction on images, which induces some computational costs due to a high data size. 
 
-Historical sales data
-- [NFT sales](https://www.kaggle.com/datasets/hemil26/nft-collections-dataset) collected on [cryptoslam.io](https://cryptoslam.io/) on April 30, 2022.
-- [NFT Top Collections](https://www.kaggle.com/datasets/nenamalikah/nft-collections-by-sales-volume) collected on [coinmarketcap.com](https://coinmarketcap.com/nft/collections/) on January 16, 2022.
-- [NFT collections, NFT Daily Volume and NFT Chainlevel](https://www.kaggle.com/datasets/sudalairajkumar/nft-dataset-from-defillama) collected on [defillama.com](https://defillama.com/nfts) on January 6, 2022.
-- [OpenSea Collections](https://www.kaggle.com/datasets/mathurinache/opensea-collections) collected on [opensea.com](https://opensea.com) on November 27, 2021.
-- [NFT History Sales](https://www.kaggle.com/datasets/mathurinache/nft-history-sales) collected on [nonfungible.com](https://nonfungible.com/) on November 12, 2021.
-- [Ethereum NFTs](https://www.kaggle.com/datasets/simiotic/ethereum-nfts) collected on [moonstream.to](https://moonstream.to) on September 25, 2021.
-- [Spacebudz metadata](https://www.kaggle.com/datasets/kabure/spacebudz-cardano-nft-complete) provided by [spacebudz.io](https://spacebudz.io/) on July 8, 2021.
-- [Solana NFT Collections](https://www.kaggle.com/datasets/eyenpi/solana-nft-collections?select=Solana+NFT+Collections) collected on [magiceden.io](https://magiceden.io) on April 18, 2021.
-- [Opensea Sales](https://www.kaggle.com/datasets/francescofalleni/nft-historical-sales?select=nft_sales.csv) collected on [opensea.com](https://opensea.com) on February 28, 2021.
-- [Niftys](https://www.kaggle.com/datasets/cianoner/nifty-gateway-nfts) collected on [niftys.com](https://niftys.com) on February 8, 2021.
-
-Images data
-- [Witches](https://www.kaggle.com/datasets/harrywang/crypto-coven) collected on opensea.com on April 22, 2022.
+To collect full datasets including images + last sale prices, we combined existing datasets Kaggle, with OpenSea API requests, and data scraping with selenium. The resulting datasets are the followings:
+- [Crypto Coven Witches](https://www.kaggle.com/datasets/harrywang/crypto-coven) collected on opensea.com on April 22, 2022.
 - [CryptoPunks](https://www.kaggle.com/datasets/tunguz/cryptopunks) collected on [larvalabs.com](https://larvalabs.com/cryptopunks) on October 8, 2021.
-- [Bored Apes](https://www.kaggle.com/datasets/stanleyjzheng/bored-apes-yacht-club) collected on opensea.com (https://opensea.com) on July 14, 2021.
-- [NFT art collection](https://www.kaggle.com/datasets/vepnar/nft-art-dataset) collected on [nftshowroom.com](https://nftshowroom.com/) on March 29, 2021.
-
-Additionnaly, reddit.com and twitter.com datasets are available. 
+- [Bored Apes](https://www.kaggle.com/datasets/stanleyjzheng/bored-apes-yacht-club) images collected on opensea.com (https://opensea.com) on July 14, 2021 (images) and historical sales on May 22, 2022.
+- [Solana NFT Collections](https://www.kaggle.com/datasets/eyenpi/solana-nft-collections?select=Solana+NFT+Collections) sales collected on [magiceden.io](https://magiceden.io) on April 18, 2021 and images collected on June 1, 2022.
 
 ### Literature:
 2022
