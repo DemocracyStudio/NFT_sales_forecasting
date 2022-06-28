@@ -1,6 +1,8 @@
 # NFT sales forecasting: a hybrid approach with Computer Vision and Time Series. 
 This repository gathers all the information, code and data about the NFT sales forecasting started as a group project at Machine Learning degree of [opencampus.sh](https://opencampus.sh). Team mates are: Malte Bartels, Khanh Ho, Julien Carbonnell.
 
+The first release of the model is presented [here](https://www.youtube.com/watch?v=wlc8mFxJB_8&t=2s). 
+
 ### Project Description:
 NFT sales increased fastly and there’s a lot of speculation around. It is nascent market of $50B capitalization, highly volatile and hardly predictable. Because it is becoming a key element of ownership in the digital world, forecasting NFT value is important for individual financial security and investment making. Since the value of NFTs depend on weak signals scattered on different digital platform of various nature, AI can help making a sense out of the NFT market to identify good investments and build a trustworthy NFT recommendation system.
 
